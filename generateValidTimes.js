@@ -11,7 +11,7 @@
 */
 
 /**
- * @param {string[]} text
+ * @param {string} timeString
  * @return {string}
  */
 const generateValidTimes = (timeString = "") => {
