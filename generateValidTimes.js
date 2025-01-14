@@ -12,7 +12,7 @@
 
 /**
  * @param {string[]} text
- * @return {boolean}
+ * @return {string}
  */
 const generateValidTimes = (timeString = "") => {
   const [hours, minutes] = timeString.split(":");
